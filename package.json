@@ -1,6 +1,6 @@
 {
   "name": "it-res",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "IT资源管理模块",
   "main": "index.js",
   "scripts": {
